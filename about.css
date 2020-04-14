@@ -1,0 +1,19 @@
+.season1{
+    background-color: coral;
+    color: cornsilk;
+}
+.demo{
+    background-color: rgb(27, 21, 21);
+    color: blanchedalmond;
+  }
+  /* .season2{
+    display: inline-block;
+    margin: auto;
+  } */
+  .footer{
+    background-color:black;
+    height: 100px;
+    color: antiquewhite;
+    word-spacing: 40px;
+    padding: 30px;
+}

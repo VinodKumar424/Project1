@@ -1,0 +1,28 @@
+.body{
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+ .container1{
+    margin-top: -340px;
+} 
+.demo1{
+    background-color: lightsalmon;
+}
+.footer{
+    background-color:black;
+    height: 100px;
+    color: antiquewhite;
+    word-spacing: 40px;
+    padding: 30px;
+}
+ .jumbotron{
+     color: blanchedalmond;
+  }
+   .display-1{
+       margin-top: -50px;
+       color: blanchedalmond;
+   }
+   #season{
+       padding: 100px;
+   }

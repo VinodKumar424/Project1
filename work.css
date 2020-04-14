@@ -1,0 +1,13 @@
+.footer{
+    background-color:black;
+    height: 100px;
+    color: antiquewhite;
+    word-spacing: 40px;
+    padding: 30px;
+}
+.boxDiv{
+    padding: 40px;
+}
+.container{
+    padding: 100px;
+}

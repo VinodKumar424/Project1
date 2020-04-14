@@ -1,0 +1,25 @@
+.body{
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.container{
+    margin-top: -260px;
+}
+
+.footer{
+    background-color:black;
+    height: 100px;
+    color: antiquewhite;
+    word-spacing: 40px;
+    padding: 30px;
+}
+.container1{
+    margin-top: -340px;
+} 
+#season{
+    padding: 120px;
+}
+.demo1{
+    background-color: lightsalmon;
+}
